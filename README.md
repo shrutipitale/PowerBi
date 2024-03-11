@@ -7,9 +7,6 @@ This folder contains Power BI files related to data analysis and visualization p
 |----------------|-------------------------------------------|
 | NetFlix  | https://github.com/shrutipitale/PowerBi/tree/199fd960b52a87180c9c6deeff54eefd638c57aa/Netflix.|       |
 
-Feel free to explore the projects and provide feedback!
-
-[Link to Power BI Folder](https://github.com/yourusername/yourrepository/tree/main/PowerBI)
 
 Feel free to explore the projects and provide feedback!
 
