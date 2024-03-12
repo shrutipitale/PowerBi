@@ -24,4 +24,4 @@ My Power BI project focusing on the Ayodhya Ram Temple construction. 🚧 The vi
 
 📌 You can view my project:
 
-🔗 novyPro Link:https://www.novypro.com/project/ayodhya-ram-temple-power-bi-analysis
+🔗 novyPro :https://www.novypro.com/project/ayodhya-ram-temple-power-bi-analysis
