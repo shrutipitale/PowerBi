@@ -1,3 +1,5 @@
+[Netflix ](https://github.com/shrutipitale/PowerBi/tree/71254b46c184c8068953070e5640b70f92ead449/Netflix)
+
 Titled "Exploring Netflix's Content Landscape: A Comprehensive Analysis Using Power BI." 🎬📊
 
 📌 Project Title: "**Exploring Netflix's Content Landscape: A Comprehensive Analysis Using Power BI**"
