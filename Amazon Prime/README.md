@@ -9,4 +9,5 @@
 4.Does Amazon Prime has more focus on TV Shows than movies in recent years.
 
 Kaggle Dataset: https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
-NovyPro: 
+
+NovyPro: https://www.novypro.com/project/amazon-prime-video-3
