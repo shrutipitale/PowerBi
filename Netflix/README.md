@@ -53,3 +53,6 @@ In my latest venture, "**Exploring Netflix's Content Landscape**," I harnessed t
 📌 You can explore the project via the following links:
 
 📁 Kaggle Dataset: Netflix Movies and TV Shows [https://www.kaggle.com/datasets/shivamb/netflix-shows]
+
+NovyPro: https://www.novypro.com/project/netflix-dashboard--2
+
