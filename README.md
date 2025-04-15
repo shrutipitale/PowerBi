@@ -10,7 +10,7 @@ This folder contains Power BI files related to data analysis and visualization p
 | Amazon Prime Video | [Amazon Prime Video](https://github.com/shrutipitale/PowerBi/tree/3f55d6e9282dafd5ec71ab3546c66d56bf79bcde/Amazon%20Prime)|   
 | FIFA World Cup | [FIFA World Cup](https://github.com/shrutipitale/PowerBi/blob/abdd63d55e870a54757eea933050a52ac1633b04/FIFA%20World%20Cup/README.md)|   
 | Analyzing Customer Churn | [Analyzing Customer Churn](https://github.com/shrutipitale/Case-Study-Analyzing-Customer-Churn-in-Power-BI.git)|   
-
+| Ecommerce analysis | [Ecommerce analysis](https://github.com/shrutipitale/case-study-ecommerce-analysis-in-power-bi.git)|   
 
 
 Feel free to explore the projects and provide feedback!
