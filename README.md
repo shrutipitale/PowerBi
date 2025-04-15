@@ -17,6 +17,8 @@ This folder contains Power BI files related to data analysis and visualization p
 |Inventory Analysis | [Inventory-Analysis](https://github.com/shrutipitale/case-study-inventory-analysis.git)|
 |Mortgage Trading Analysis| [Mortgage Trading Analysis](https://github.com/shrutipitale/case-study-mortgage-trading-analysis-in-power-bi.git)|
 |Supply Chain Analytics| [Supply Chain Analytics](https://github.com/shrutipitale/case-study-supply-chain-analytics.git)|
+|Walmart| [Walmart](https://github.com/shrutipitale/Walmart.git)|
+
 
 
 Feel free to explore the projects and provide feedback!
