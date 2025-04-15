@@ -11,7 +11,7 @@ This folder contains Power BI files related to data analysis and visualization p
 | FIFA World Cup | [FIFA World Cup](https://github.com/shrutipitale/PowerBi/blob/abdd63d55e870a54757eea933050a52ac1633b04/FIFA%20World%20Cup/README.md)|   
 | Analyzing Customer Churn | [Analyzing Customer Churn](https://github.com/shrutipitale/Case-Study-Analyzing-Customer-Churn-in-Power-BI.git)|   
 | Ecommerce Analysis | [Ecommerce analysis](https://github.com/shrutipitale/case-study-ecommerce-analysis-in-power-bi.git)|   
-| Competitor Analysis | [Competitor Analysis](https://github.com/shrutipitale/Case-study-competitor-analysis-in-power-bi-case-study.git)|
+| Competitor Analysis | [Competitor Analysis](https://github.com/shrutipitale/competitor-analysis.git)|
 |Healthcare Analytics | [Competitor Analysis](https://github.com/shrutipitale/case-study-healthcare-analytics-in-power-bi.git)|
 |HR Analytics | [HR Analytics](https://github.com/shrutipitale/case-study-hr-analytics-in-power-bi.git)|
 |Inventory Analysis | [Inventory-Analysis](https://github.com/shrutipitale/case-study-inventory-analysis.git)|
