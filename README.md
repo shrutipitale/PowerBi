@@ -18,6 +18,7 @@ This folder contains Power BI files related to data analysis and visualization p
 |Mortgage Trading Analysis| [Mortgage Trading Analysis](https://github.com/shrutipitale/case-study-mortgage-trading-analysis-in-power-bi.git)|
 |Supply Chain Analytics| [Supply Chain Analytics](https://github.com/shrutipitale/case-study-supply-chain-analytics.git)|
 |Walmart| [Walmart](https://github.com/shrutipitale/Walmart.git)|
+| Bank Loan | [Bank Loan](https://github.com/shrutipitale/PowerBi/tree/73d9a3ed01ac54e1ba640188d8fe4748929eb87f/Bank%20Loan)|  
 
 
 
