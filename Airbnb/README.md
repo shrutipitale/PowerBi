@@ -60,8 +60,7 @@ The interactive dashboards (created using **Power BI**) include:
 ## 💻 Tech Stack
 
 - **Power BI**: Dashboard creation and data visualization  
-- **Python (Pandas, Matp![Screenshot 2025-05-13 195243](https://github.com/user-attachments/assets/d873a0a5-2e6d-4163-98b4-07cfd1b13f18)
-lotlib, Seaborn)**: Data cleaning and exploratory analysis  
+- **Python (Pandas, Matplotlib, Seaborn)**: Data cleaning and exploratory analysis  
 - **Jupyter / Colab**: Used for prototyping  
 - **Excel / CSV**: Dataset preprocessing
 
