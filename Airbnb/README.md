@@ -18,7 +18,7 @@ It includes over **48,000 listings** with attributes like:
 - `listing coordinates`
 - and more.
 
-> Original source: [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
+> Original source: [Kaggle Airbnb](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 
 ---
 
@@ -45,9 +45,9 @@ The interactive dashboards (created using **Power BI**) include:
 - 🛏️ **Room Type Distribution**
 - 🧮 **Price Trend Over Time**
 
-<details>
-<summary>Screenshots</summary>
-
+  
+## Screenshots
+  
 ![Dashboard 1](https://github.com/user-attachments/assets/44c3966e-e8a3-4b43-afa7-2f340011fe21)  
 ![Dashboard 2](https://github.com/user-attachments/assets/127c7c88-cbad-42a4-8067-0329ed409d5b)
 ![Dashboard 3](https://github.com/user-attachments/assets/74793d50-b6e7-4231-ba21-895b49efc4ed)
