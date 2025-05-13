@@ -48,9 +48,10 @@ The interactive dashboards (created using **Power BI**) include:
 <details>
 <summary>Screenshots</summary>
 
-![Dashboard 1](screenshots/Screenshot_2025-05-13_195243.png)  
-![Dashboard 2](screenshots/Screenshot_2025-05-13_195256.png)  
-![Dashboard 3](screenshots/Screenshot_2025-05-13_195304.png)
+![Dashboard 1](https://github.com/user-attachments/assets/44c3966e-e8a3-4b43-afa7-2f340011fe21)  
+![Dashboard 2](https://github.com/user-attachments/assets/127c7c88-cbad-42a4-8067-0329ed409d5b)
+![Dashboard 3](https://github.com/user-attachments/assets/74793d50-b6e7-4231-ba21-895b49efc4ed)
+
 
 </details>
 
@@ -59,7 +60,8 @@ The interactive dashboards (created using **Power BI**) include:
 ## 💻 Tech Stack
 
 - **Power BI**: Dashboard creation and data visualization  
-- **Python (Pandas, Matplotlib, Seaborn)**: Data cleaning and exploratory analysis  
+- **Python (Pandas, Matp![Screenshot 2025-05-13 195243](https://github.com/user-attachments/assets/d873a0a5-2e6d-4163-98b4-07cfd1b13f18)
+lotlib, Seaborn)**: Data cleaning and exploratory analysis  
 - **Jupyter / Colab**: Used for prototyping  
 - **Excel / CSV**: Dataset preprocessing
 
