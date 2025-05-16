@@ -30,7 +30,8 @@ The Details Dashboard provides a comprehensive view of key loan-related metrics 
 ## Dashboard 4: 
 The Bank Data Details 
 ![Picture4](https://github.com/user-attachments/assets/fc6a64cd-f05f-4a95-aeba-d8309f5670a9)
-Dataset Used:
+
+## Dataset Used:
 The bank loan analysis dataset comprises essential fields such as Loan ID, Address State, Purpose, Grade, Sub Grade, Annual Income, Loan Status, Last Payment Date, Verification Status, Debt-to-Income Ratio, and Interest Rates. These fields provide insights into borrower demographics, employment stability, loan characteristics, risk assessment, and payment behavior.
 
 Conclusion:
