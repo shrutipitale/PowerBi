@@ -38,7 +38,7 @@ Conclusion:
 The Details Dashboard streamlines access to critical loan data, facilitating informed decision-making, enhancing operational efficiency, optimizing lending strategies, mitigating risks, and maximizing overall performance.
 
 Getting Started
-Clone the Repository: Clone this repository to your local machine using git clone .
+Clone the Repository: Clone this repository to your local machine using git clone https://github.com/shrutipitale/PowerBi/tree/25e469047e84fa4b60e9e87b36613f32195a6a13/Bank%20Loan.
 Open the Power BI Project: Open the .pbix file using Power BI Desktop.
 Interact with Dashboards: Explore the interactive dashboards and visualizations to gain insights into bank loan data.
 Adding Images
